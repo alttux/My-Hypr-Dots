@@ -1,0 +1,1 @@
+/home/rm/Рабочий стол/powermod-gtk/powermods.py
