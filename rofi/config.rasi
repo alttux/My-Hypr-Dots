@@ -188,4 +188,8 @@ configuration {
 
 //@theme "/home/rm/.config/rofi/themes/KooL_style-3-Fullscreen-v2.rasi"
 
-@theme "/home/rm/.local/share/rofi/themes/KooL_style-4.rasi"
+//@theme "/home/rm/.local/share/rofi/themes/KooL_style-4.rasi"
+
+//@theme "/home/rm/.config/rofi/themes/style-5.rasi"
+
+@theme "/home/rm/.local/share/rofi/themes/KooL_style-6.rasi"
